@@ -5,6 +5,8 @@
 - https://github.com/chrisbanes/accompanist
 - https://foso.github.io/Jetpack-Compose-Playground/
 - https://github.com/android/compose-samples
+- [Navigation in Compose](https://developer.android.com/jetpack/compose/navigation)
+- [Scrollable Layouts in Compose](https://developer.android.com/jetpack/compose/layout#scrollable)
 
 ##### Beginner
 - https://developer.android.com/jetpack/compose/tutorial
@@ -13,4 +15,5 @@
 
 ##### Intermediate
 - https://www.hellsoft.se/rendering-markdown-with-jetpack-compose/
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-state/
+- [State in Compose Codelab](https://codelabs.developers.google.com/codelabs/jetpack-compose-state/)
+- [State in Compose Guide](https://developer.android.com/jetpack/compose/state)

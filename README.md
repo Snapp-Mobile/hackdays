@@ -1,6 +1,6 @@
 # hackdays
 
-How to run a hack day:
+How to run a hack day: https://medium.com/@jossiwolf/running-a-hack-day-9b682cb970d2
 
 
 ### Checklist

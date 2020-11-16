@@ -1,6 +1,8 @@
 # hackdays
 
-How to run a hack day: https://medium.com/@jossiwolf/running-a-hack-day-9b682cb970d2
+A small repository in addition to our [blog post on running a hack day](https://medium.com/@jossiwolf/running-a-hack-day-9b682cb970d2).
+We have some inspiration e.g. for resources, the announcement messages and more here.
+Feel free to contribute!
 
 
 ### Checklist
